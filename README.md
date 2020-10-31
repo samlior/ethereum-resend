@@ -1,6 +1,6 @@
 # ethereum-resend
 
-Resend(speedup) or cancel ethereum transacton.
+Resend(speedup) or cancel ethereum transaction.
 
 # Usage
 ```
