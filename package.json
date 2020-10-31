@@ -1,0 +1,27 @@
+{
+  "name": "ethereum-resend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samlior/ethereum-resend.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "samlior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samlior/ethereum-resend/issues"
+  },
+  "homepage": "https://github.com/samlior/ethereum-resend#readme",
+  "dependencies": {
+    "trace": "^3.1.1",
+    "web3": "^1.3.0",
+    "yargs": "^16.1.0"
+  }
+}
